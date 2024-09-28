@@ -1,0 +1,167 @@
+/* 
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #ffffff; 
+  }
+  
+  div {
+    box-sizing: border-box;
+  }
+  
+  .person {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    margin: 2px;
+    
+    font-size: 30px;
+    color: #333; 
+  }
+  
+  .person span {
+    margin-right: 10px;
+  }
+  
+  .color-ring-wrapper {
+    display: inline-block;
+  }
+  
+  .Chessboard {
+    margin: 0 auto;
+   
+  }
+  
+  .person i {
+    font-style: italic;
+    color: #666;
+  }
+  
+ 
+  .react-chessboard {
+    border: 2px solid #ddd; 
+    border-radius: 8px;
+  }
+  
+  .color-ring-wrapper {
+    margin-left: 10px;
+  }
+  .board{
+   margin-left: 20px;
+  }
+
+  .person {
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.person span {
+    position: absolute;
+    font-weight: 600;
+    color: grey;
+    text-decoration: underline;
+}
+
+.person span i {
+    text-decoration: none;
+}
+
+.person div {
+    width: 100%;
+    padding-right: 5%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+} 
+
+ */
+
+ body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #ffffff; 
+}
+
+div {
+  box-sizing: border-box;
+}
+
+.person {
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  margin: 2px;
+  font-size: 30px;
+  color: #333; 
+}
+
+.person span {
+  margin-right: 10px;
+}
+
+.color-ring-wrapper {
+  display: inline-block;
+}
+
+.Chessboard {
+  margin: 0 auto;
+}
+
+.person i {
+  font-style: italic;
+  color: #666;
+}
+
+.react-chessboard {
+  border: 2px solid #ddd; 
+  border-radius: 8px;
+}
+
+.color-ring-wrapper {
+  margin-left: 10px;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+}
+
+.chessboard-wrapper {
+  margin-right: 20px; 
+}
+
+.chess-image {
+  width: 600px; 
+}
+
+.person {
+  height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.person span {
+  position: absolute;
+  font-weight: 600;
+  color: grey;
+  text-decoration: underline;
+}
+
+.person span i {
+  text-decoration: none;
+}
+
+.person div {
+  width: 100%;
+  padding-right: 5%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
